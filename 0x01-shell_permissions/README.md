@@ -1,1 +1,1 @@
-this the readme for this project shell permissions
+this is the readme for this project shell permissions
